@@ -133,6 +133,8 @@ Replace "your-username" with your GitHub username.
 
 Congratulations! You just made an open source contribution! In the next chapter, we'll add this to an open source portfolio: a resume for open source contributions through which you can showcase your work and attract potential employers and friends using OpenSauced. For now, let's wrap up with some notes on onboarding.
 
+If you want more practice contributing, check out our [pizza-verse repository](https://github.com/open-sauced/pizza-verse) where you can add facts about pizza, recipes, and more!
+
 ## Onboarding in a new project
 
 When you join a new open source project, it's important to familiarize yourself with the project's guidelines, conventions, and workflow. Here are some tips to help you onboard successfully:
